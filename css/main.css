@@ -15,7 +15,7 @@ table
 }
 th
 {
-    background-color: whitesmoke;
+    background-color: pink;
     font-size: 18px;
 }
 body{
@@ -30,9 +30,9 @@ body{
 }
 h1{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color:rgb(129, 39, 212);
+    color:rgb(212, 39, 197);
 
 }
 td{
-    background-color:pink
+    background-color:whitesmoke
 }
