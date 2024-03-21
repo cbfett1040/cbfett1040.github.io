@@ -21,9 +21,12 @@ th
 body{
     background-color: rgb(28, 184, 184);
     display: flex;
-    flex-direction: column;
     align-items: center;
-    margin:auto; 
+    margin: auto;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
 }
 h1{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
