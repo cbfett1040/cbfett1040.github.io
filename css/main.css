@@ -21,6 +21,7 @@ th
 body{
     background-color: rgb(28, 184, 184);
     display: flex;
+    flex-direction: column;
     align-items: center;
     margin:auto; 
 }
