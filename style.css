@@ -1,0 +1,69 @@
+header{
+    color: red;
+    padding: 1.5vw;
+    text-align: center;
+    background-color: #f8f8f8;
+  }
+  img{
+    width: 25%;
+    border-radius: .5vw;
+    opacity:100%;
+    filter: 75%;
+    height: auto;
+    margin: auto:
+    display: block;
+    width: 50vw;
+  }
+  h2{
+    color: green;
+    text-decoration: underline;
+  }
+  a{
+    color: white;
+  }
+  
+  p{
+    color: darkorange;
+    font-size: 16pt;
+  }
+  *{
+    text-align: center;
+  }
+  ul{
+    width: 20 vw;
+    margin: auto;
+    list-style-type: none;
+  
+  }
+  li{
+    color: black
+  }
+  ol{
+    color: darkgreen;
+  }
+  a img{
+    width: 50vw;
+    height: auto;
+  }
+  :root{
+    background-color: gray;
+    color: blue;
+  
+  }
+  .title{
+    color:#9da068;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align:center;
+  
+  }
+  section :hover{
+    background-color: gold
+  
+  }
+  .footnote{
+    font-style: italic;
+    text-align: center;
+    margin-top: 5.2vw;
+  
+  }
